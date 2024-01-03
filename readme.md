@@ -17,11 +17,12 @@ This is a content-based movie recommendation website, which I created using the 
 
 #Installation process:
 1.	Clone the repository
-   2.	 Install the necessary dependencies using the following command on your terminal:
-   a.	$ pip install -r requirements.txt  
-3.	Run the application locally on your system with the following command:
+2.	 Install the necessary dependencies using the following command on your terminal:
+   a.	$ pip install -r requirements.txt
+3. You need to generate the .pkl files using .ipynb file existing on the repository.
+4.	Run the application locally on your system with the following command:
 a.	$ streamlit run app.py
-4.	Press ctrl+c to terminate the process
+5.	Press ctrl+c to terminate the process
 
 
 ##Live demo:
