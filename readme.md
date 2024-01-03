@@ -25,7 +25,6 @@ a.	$ streamlit run app.py
 5.	Press ctrl+c to terminate the process
 
 
-##Live demo:
- For viewing the website in live action, follow the link:
+
 
 ![img.png](img.png)
