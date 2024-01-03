@@ -13,7 +13,8 @@ This is a content-based movie recommendation website, which I created using the 
 4.	Streamlit
 5.	Pycharm
 6.	Pickle
-
+7. Nltk
+8. SciKitLearn
 
 #Installation process:
 1.	Clone the repository
